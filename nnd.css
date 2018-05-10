@@ -1,0 +1,25 @@
+body {
+	font-family: 'Playfair Display', serif;
+	font-size: 25px;
+}
+
+h3 {
+	font-family: 'Playfair Display', serif;
+}
+
+h3 {
+	font-size:25px;
+}
+
+h1{
+	
+	font-family: 'IM Fell English SC', serif;
+	text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
